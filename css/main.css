@@ -58,7 +58,10 @@ body {
     height: 366px;
     width: hidden;
 }
-
+.body-img img{
+    width: 100%;
+    height: 366px;
+}
 .block{
     padding: 10px 20px 40px 20px;
     background-color: white;
