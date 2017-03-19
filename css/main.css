@@ -60,7 +60,7 @@ body {
 }
 
 .body-img img{
-    text-align: center;
+    vertical-align: middle;
     max-width: 100%;
     max-height: 100%;
 }
