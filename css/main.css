@@ -55,6 +55,7 @@ body {
 }
 
 .body-img{
+    text-align: center;
     height: 366px;
     overflow: hidden;
 }
