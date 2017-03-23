@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+ 
+<meta charset="utf-8" />
+ 
+<title>Макет</title>
+ 
+</head>
+<body>
+ 
+<!-- Начало хидер -->
+<header class="header">
+<div id="headerInner">
+ 
+</div>
+</header><!-- Конец хидер -->
+ 
+</body>
+</html>
